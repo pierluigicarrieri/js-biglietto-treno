@@ -1,0 +1,8 @@
+h1, h4 {
+    width: fit-content;
+}
+
+.container {
+    background-image: url("/imgs/pakitrain.webp");
+    background-size: cover;
+}
